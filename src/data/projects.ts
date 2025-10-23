@@ -20,7 +20,7 @@ export const projects: Project[] = [
     title: "Event Management",
     category: "Web App / UI/UX Design",
     description: "Designing a web-based event management system for DPMPTSP, from user flows to high-fidelity prototypes.",
-    image: "https://i.postimg.cc/mrGQHBqw/Event-Management-Cover.png",
+    image: "https://drive.google.com/file/d/1Tx6n3rwdu49rUyfjgSuNUTLa5BHUdbtB/view?usp=sharing",
     additionalImages: [
       "https://i.postimg.cc/m2tqdyrm/EMDashboard.png",
       "https://i.postimg.cc/qMzYmx7F/EMHomepage.png",
@@ -61,7 +61,7 @@ export const projects: Project[] = [
       "Improved system clarity and usability through multiple cycles of feedback and design iteration.", 
       "Collaborated effectively with cross-functional teams to ensure alignment between design and technical functionality.",
     ],
-    tools: ["Figma", "React", "", ""],
+    tools: ["Figma", "React"],
     year: "2024",
     link: "#",
   },
@@ -71,7 +71,7 @@ export const projects: Project[] = [
     category: "Web App / UI/UX & Front-End",
     description: "Designed and built a community-focused web app for transparent neighborhood (RT/RW) financial management.",
     image:       "https://i.postimg.cc/T1mbws0P/Keurta-Cover.png",
-    additionalImages: [
+        additionalImages: [
       "https://i.postimg.cc/SsnTZySt/KRTDashboard.png",
       "https://i.postimg.cc/V6JG7YfK/KRTTransaksi.png",
     
@@ -87,7 +87,7 @@ export const projects: Project[] = [
       "Implemented functional front-end components based on user-centered design principles.", //
       "Created an application concept that prioritized ease of use for community financial management.",
     ],
-    tools: ["Figma", "Protopie", "Illustrator", "Optimal Workshop"],
+    tools: ["Figma", "Protopie",],
     year: "2024",
     link: "#",
   },
@@ -137,7 +137,7 @@ export const projects: Project[] = [
       "Created a high-fidelity redesign concept in Figma.", //
       "Presented a prototype with an improved navigation structure and visual consistency.",
     ],
-    tools: ["Figma", "Sketch", "InVision", "Hotjar"],
+    tools: ["Figma",],
     year: "2023",
     link: "#",
   },
