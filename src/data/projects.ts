@@ -22,8 +22,8 @@ export const projects: Project[] = [
     description: "Designing a web-based event management system for DPMPTSP, from user flows to high-fidelity prototypes.",
     image: "https://i.postimg.cc/mrGQHBqw/Event-Management-Cover.png",
     additionalImages: [
-      "Public/Images/Projects/EventManagement/Dashboard.png",
-      "Public/Images/Projects/EventManagement/Homepage2.png",
+      "https://i.postimg.cc/m2tqdyrm/EMDashboard.png",
+      "https://i.postimg.cc/qMzYmx7F/EMHomepage.png",
    ],
     fullDescription:
       "An academic project focused on designing a comprehensive event management system. The system was designed to handle participant registration, QR code-based check-in, and provide real-time attendance tracking.",
@@ -45,10 +45,10 @@ export const projects: Project[] = [
     title: "Periodic Salary Increase Application",
     category: "Web App / UI/UX & Front-End",
     description: "Developed the UI/UX and front-end implementation for automating the periodic salary increase process at DPMPTSP West Java.",
-    image:       "Public/Images/Projects/KGBCover.png",
+    image:       "https://i.postimg.cc/qqnKRFw4/KGBCover.png",
     additionalImages: [
-      "Public/Images/Projects/KGB/Dashboard.png",
-      "Public/Images/Projects/KGB/Staff2.png",
+      "https://i.postimg.cc/R0XL52s7/KGBDashboard.png",
+      "https://i.postimg.cc/s2w4db6S/KGBStaff.png",
           ],
     fullDescription:
       "As part of an internship program, I directly contributed to developing a web application to manage and automate the periodic salary increase process for civil servants. I was responsible for both UI/UX design and front-end development.",
@@ -70,10 +70,10 @@ export const projects: Project[] = [
     title: "KeuRTa - Neighborhood Budgeting App",
     category: "Web App / UI/UX & Front-End",
     description: "Designed and built a community-focused web app for transparent neighborhood (RT/RW) financial management.",
-    image:       "Public/Images/Projects/KeurtaCover.png",
+    image:       "https://i.postimg.cc/T1mbws0P/Keurta-Cover.png",
     additionalImages: [
-      "Public/Images/Projects/Keurta/Dashboard.png",
-      "Public/Images/Projects/Keurta/Transaksi.png",
+      "https://i.postimg.cc/SsnTZySt/KRTDashboard.png",
+      "https://i.postimg.cc/V6JG7YfK/KRTTransaksi.png",
     
     ],
     fullDescription:
@@ -96,7 +96,7 @@ export const projects: Project[] = [
     title: "Try It! - Cooking Recipe Application",
     category: "Mobile App / UI/UX Design",
     description: "Designed an interactive, mobile-first application for users to share, save, and browse cooking recipes.",
-    image:       "Public/Images/Projects/TryItCover.png",
+    image:       "https://i.postimg.cc/1X6FtdB9/Try-It-Cover.png",
     additionalImages: [
       "Public/Images/Projects/TryIt/Home.png",
       "Public/Images/Projects/TryIt/.png",
@@ -121,7 +121,7 @@ export const projects: Project[] = [
     title: "Case Study: Viu App Redesign",
     category: "UI/UX Redesign / Case Study",
     description: "Analyzed and redesigned the Viu app concept to improve content discoverability and visual consistency.",
-    image:       "Public/Images/Projects/RedesignViuCover.png",
+    image:       "https://i.postimg.cc/2yvW6tG6/Redesign-Viu-Cover.png",
     additionalImages: [
       "Public/Images/Projects/",
       "Public/Images/Projects/",
