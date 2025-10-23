@@ -20,7 +20,7 @@ export const projects: Project[] = [
     title: "Event Management",
     category: "Web App / UI/UX Design",
     description: "Designing a web-based event management system for DPMPTSP, from user flows to high-fidelity prototypes.",
-    image: "https://drive.google.com/drive-viewer/AKGpihaiboDmnphDqglW730ZgIIDkr5vxvPtFc6y8siH-I6MmHt71gpXzq7-tdUkScImCeLk29xyd_oR4_C7owcv4Og1uMFp7Yg0wQ=s1600-rw-v1",
+    image: "https://i.im.ge/2025/10/23/nZnV8X.EventManagementCover.png",
         additionalImages: [
       "https://i.postimg.cc/m2tqdyrm/EMDashboard.png",
       "https://i.postimg.cc/qMzYmx7F/EMHomepage.png",
