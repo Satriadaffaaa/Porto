@@ -45,7 +45,7 @@ export const projects: Project[] = [
     title: "Periodic Salary Increase Application",
     category: "Web App / UI/UX & Front-End",
     description: "Developed the UI/UX and front-end implementation for automating the periodic salary increase process at DPMPTSP West Java.",
-    image:       "https://i.postimg.cc/qqnKRFw4/KGBCover.png",
+    image:       "https://i.ibb.co.com/Myqhvq20/hero.jpg",
     additionalImages: [
       "https://i.postimg.cc/R0XL52s7/KGBDashboard.png",
       "https://i.postimg.cc/s2w4db6S/KGBStaff.png",
