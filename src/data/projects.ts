@@ -22,8 +22,8 @@ export const projects: Project[] = [
     description: "Designing a web-based event management system for DPMPTSP, from user flows to high-fidelity prototypes.",
     image: "https://i.ibb.co.com/zTpN6Bg6/Event-Management-Cover.png",
         additionalImages: [
-      "https://i.postimg.cc/m2tqdyrm/EMDashboard.png",
-      "https://i.postimg.cc/qMzYmx7F/EMHomepage.png",
+      "https://i.ibb.co.com/WRnQFZy/EMDashboard.png",
+      "https://i.ibb.co.com/VWMTqCY5/EMHomepage.png",
    ],
     fullDescription:
       "An academic project focused on designing a comprehensive event management system. The system was designed to handle participant registration, QR code-based check-in, and provide real-time attendance tracking.",
@@ -47,8 +47,8 @@ export const projects: Project[] = [
     description: "Developed the UI/UX and front-end implementation for automating the periodic salary increase process at DPMPTSP West Java.",
     image:       "https://i.ibb.co.com/xty6NM3P/KGBCover.png",
     additionalImages: [
-      "https://i.postimg.cc/R0XL52s7/KGBDashboard.png",
-      "https://i.postimg.cc/s2w4db6S/KGBStaff.png",
+      "https://i.ibb.co.com/RTwh5Nhq/KGBDashboard.png",
+      "https://i.ibb.co.com/MD7Wtb3b/KGBStaff.png",
           ],
     fullDescription:
       "As part of an internship program, I directly contributed to developing a web application to manage and automate the periodic salary increase process for civil servants. I was responsible for both UI/UX design and front-end development.",
@@ -72,8 +72,8 @@ export const projects: Project[] = [
     description: "Designed and built a community-focused web app for transparent neighborhood (RT/RW) financial management.",
     image:       "https://i.ibb.co.com/Y7ykZRFV/Keurta-Cover.png",
         additionalImages: [
-      "https://i.postimg.cc/SsnTZySt/KRTDashboard.png",
-      "https://i.postimg.cc/V6JG7YfK/KRTTransaksi.png",
+      "https://i.ibb.co.com/v6xQrbk9/KRTDashboard.png",
+      "https://i.ibb.co.com/WWLK1KrF/KRTTransaksi.png",
     
     ],
     fullDescription:
@@ -98,8 +98,8 @@ export const projects: Project[] = [
     description: "Designed an interactive, mobile-first application for users to share, save, and browse cooking recipes.",
     image:       "https://i.ibb.co.com/j9D9H54m/Try-It-Cover.png",
     additionalImages: [
-      "https://i.postimg.cc/wxLY5dwf/Try-It-Icon.png",
-      "https://i.postimg.cc/J7ZC3WpT/Try-Itfeatures.png",
+      "https://i.ibb.co.com/PGRKQgfM/Tryiticon.png",
+      "https://i.ibb.co.com/BHXP23qC/Tryitfeatures.png",
     ],
     fullDescription:
       "This academic project focused purely on the UI/UX design for a cooking recipe app. The goal was to create a visually engaging and easy-to-use mobile-first platform where users could not only find recipes but also contribute by submitting their own.",
@@ -123,8 +123,8 @@ export const projects: Project[] = [
     description: "Analyzed and redesigned the Viu app concept to improve content discoverability and visual consistency.",
     image:       "https://i.ibb.co.com/9LhYm6J/Redesign-Viu-Cover.png",
     additionalImages: [
-      "https://i.postimg.cc/fWx1tfLh/Redesignicon.png",
-      "https://i.postimg.cc/HWX10C6v/Typography.png",
+      "https://i.ibb.co.com/dstqfH3k/VIUicon.png",
+      "https://i.ibb.co.com/Zzzjt8mw/VIUTypography.png",
     ],
     fullDescription:
       "This was an academic case study project aimed at identifying usability issues in the existing Viu app  and proposing an improved design solution. The process involved user research and heuristic evaluation.",
