@@ -20,7 +20,7 @@ export const projects: Project[] = [
     title: "Event Management",
     category: "Web App / UI/UX Design",
     description: "Designing a web-based event management system for DPMPTSP, from user flows to high-fidelity prototypes.",
-    image: "https://i.im.ge/2025/10/23/nZnV8X.EventManagementCover.png",
+    image: "https://i.ibb.co.com/zTpN6Bg6/Event-Management-Cover.png",
         additionalImages: [
       "https://i.postimg.cc/m2tqdyrm/EMDashboard.png",
       "https://i.postimg.cc/qMzYmx7F/EMHomepage.png",
@@ -45,7 +45,7 @@ export const projects: Project[] = [
     title: "Periodic Salary Increase Application",
     category: "Web App / UI/UX & Front-End",
     description: "Developed the UI/UX and front-end implementation for automating the periodic salary increase process at DPMPTSP West Java.",
-    image:       "https://i.ibb.co.com/Myqhvq20/hero.jpg",
+    image:       "https://i.ibb.co.com/xty6NM3P/KGBCover.png",
     additionalImages: [
       "https://i.postimg.cc/R0XL52s7/KGBDashboard.png",
       "https://i.postimg.cc/s2w4db6S/KGBStaff.png",
@@ -70,7 +70,7 @@ export const projects: Project[] = [
     title: "KeuRTa - Neighborhood Budgeting App",
     category: "Web App / UI/UX & Front-End",
     description: "Designed and built a community-focused web app for transparent neighborhood (RT/RW) financial management.",
-    image:       "https://i.postimg.cc/T1mbws0P/Keurta-Cover.png",
+    image:       "https://i.ibb.co.com/Y7ykZRFV/Keurta-Cover.png",
         additionalImages: [
       "https://i.postimg.cc/SsnTZySt/KRTDashboard.png",
       "https://i.postimg.cc/V6JG7YfK/KRTTransaksi.png",
@@ -96,7 +96,7 @@ export const projects: Project[] = [
     title: "Try It! - Cooking Recipe Application",
     category: "Mobile App / UI/UX Design",
     description: "Designed an interactive, mobile-first application for users to share, save, and browse cooking recipes.",
-    image:       "https://i.postimg.cc/1X6FtdB9/Try-It-Cover.png",
+    image:       "https://i.ibb.co.com/j9D9H54m/Try-It-Cover.png",
     additionalImages: [
       "https://i.postimg.cc/wxLY5dwf/Try-It-Icon.png",
       "https://i.postimg.cc/J7ZC3WpT/Try-Itfeatures.png",
@@ -121,7 +121,7 @@ export const projects: Project[] = [
     title: "Case Study: Viu App Redesign",
     category: "UI/UX Redesign / Case Study",
     description: "Analyzed and redesigned the Viu app concept to improve content discoverability and visual consistency.",
-    image:       "https://i.postimg.cc/2yvW6tG6/Redesign-Viu-Cover.png",
+    image:       "https://i.ibb.co.com/9LhYm6J/Redesign-Viu-Cover.png",
     additionalImages: [
       "https://i.postimg.cc/fWx1tfLh/Redesignicon.png",
       "https://i.postimg.cc/HWX10C6v/Typography.png",
