@@ -98,8 +98,8 @@ export const projects: Project[] = [
     description: "Designed an interactive, mobile-first application for users to share, save, and browse cooking recipes.",
     image:       "https://i.postimg.cc/1X6FtdB9/Try-It-Cover.png",
     additionalImages: [
-      "Public/Images/Projects/TryIt/Home.png",
-      "Public/Images/Projects/TryIt/.png",
+      "https://i.postimg.cc/wxLY5dwf/Try-It-Icon.png",
+      "https://i.postimg.cc/J7ZC3WpT/Try-Itfeatures.png",
     ],
     fullDescription:
       "This academic project focused purely on the UI/UX design for a cooking recipe app. The goal was to create a visually engaging and easy-to-use mobile-first platform where users could not only find recipes but also contribute by submitting their own.",
@@ -123,8 +123,8 @@ export const projects: Project[] = [
     description: "Analyzed and redesigned the Viu app concept to improve content discoverability and visual consistency.",
     image:       "https://i.postimg.cc/2yvW6tG6/Redesign-Viu-Cover.png",
     additionalImages: [
-      "Public/Images/Projects/",
-      "Public/Images/Projects/",
+      "https://i.postimg.cc/fWx1tfLh/Redesignicon.png",
+      "https://i.postimg.cc/HWX10C6v/Typography.png",
     ],
     fullDescription:
       "This was an academic case study project aimed at identifying usability issues in the existing Viu app  and proposing an improved design solution. The process involved user research and heuristic evaluation.",
