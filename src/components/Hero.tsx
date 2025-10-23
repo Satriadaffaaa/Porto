@@ -32,7 +32,7 @@ export function Hero() {
               >
                 View My Work
               </button>
-              <button
+              {/* <button
                 onClick={() => {
                   const element = document.getElementById("contact");
                   element?.scrollIntoView({ behavior: "smooth" });
@@ -40,7 +40,7 @@ export function Hero() {
                 className="px-6 py-3 border border-neutral-300 rounded-lg hover:border-neutral-400 transition-colors"
               >
                 Get in Touch
-              </button>
+              </button> */}
             </div>
           </div>
 
