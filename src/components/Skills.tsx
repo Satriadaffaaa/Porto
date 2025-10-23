@@ -31,8 +31,8 @@ export function Skills() {
       icon: Wrench,
       skills: [
         "User Research & Persona Development",
-        "Wireframing & Prototyping (Low to High Fidelity)",
-        "User Flow Mapping",
+        "Design Thinking & User Centered Design ",
+        "Wireframing & Prototyping ",
         "Design Systems & Style Guides",
         "Usability Testing & Iterative Design",
       ],
