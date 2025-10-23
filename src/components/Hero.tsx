@@ -48,12 +48,11 @@ export function Hero() {
           <div className="order-1 md:order-2">
             <div className="relative">
               <div className="aspect-square rounded-3xl overflow-hidden bg-neutral-100">
-                {/* <ImageWithFallback
+                <ImageWithFallback
                   src="/Public/Images/HeroImage.JPG"
                   alt="Andhika Satria Daffa - UI/UX Designer"
                   className="w-full h-full object-cover"
-                /> */}
-                <img src="Public/Images/HeroImage.JPG" alt="" className="w-full h-full object-cover" />
+                />
               </div>
               <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-blue-500/10 rounded-full -z-10"></div>
               <div className="absolute -top-6 -left-6 w-24 h-24 bg-neutral-900/5 rounded-full -z-10"></div>
