@@ -20,7 +20,7 @@ export const projects: Project[] = [
     title: "Event Management",
     category: "Web App / UI/UX Design",
     description: "Designing a web-based event management system for DPMPTSP, from user flows to high-fidelity prototypes.",
-    image: "Public/Images/Projects/EventManagementCover.png",
+    image: "https://postimg.cc/MXdhj9Kw",
     additionalImages: [
       "Public/Images/Projects/EventManagement/Dashboard.png",
       "Public/Images/Projects/EventManagement/Homepage2.png",
@@ -38,7 +38,7 @@ export const projects: Project[] = [
     ],
     tools: ["Figma"],
     year: "2024",
-    link: "https://www.figma.com/design/uG3bbtOOW9QeGpTyJr88iJ/Event-Management?node-id=60-36&t=OgKvv1JXLiub9T5T-1",
+    link: "",
   },
   {
     id: 2,
