@@ -20,7 +20,7 @@ export const projects: Project[] = [
     title: "Event Management",
     category: "Web App / UI/UX Design",
     description: "Designing a web-based event management system for DPMPTSP, from user flows to high-fidelity prototypes.",
-    image: "https://postimg.cc/MXdhj9Kw",
+    image: "https://postimg.cc/XrQGMSnG",
     additionalImages: [
       "Public/Images/Projects/EventManagement/Dashboard.png",
       "Public/Images/Projects/EventManagement/Homepage2.png",
