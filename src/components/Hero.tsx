@@ -49,7 +49,7 @@ export function Hero() {
             <div className="relative">
               <div className="aspect-square rounded-3xl overflow-hidden bg-neutral-100">
                 <ImageWithFallback
-                  src="https://i.im.ge/2025/10/23/nZnxMa.hero.jpeg"
+                  src="https://i.ibb.co.com/0RqJ59GS/hero.jpg"
                   alt="Andhika Satria Daffa - UI/UX Designer"
                   className="w-full h-full object-cover"
                 />
