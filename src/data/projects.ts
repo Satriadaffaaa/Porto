@@ -20,10 +20,10 @@ export const projects: Project[] = [
     title: "Event Management",
     category: "Web App / UI/UX Design",
     description: "Designing a web-based event management system for DPMPTSP, from user flows to high-fidelity prototypes.",
-    image: "Public/Assets/Images/Projects/EventManagementCover.png",
+    image: "Public/Images/Projects/EventManagementCover.png",
     additionalImages: [
-      "Public/Assets/Images/Projects/EventManagement/Dashboard.png",
-      "Public/Assets/Images/Projects/EventManagement/Homepage2.png",
+      "Public/Images/Projects/EventManagement/Dashboard.png",
+      "Public/Images/Projects/EventManagement/Homepage2.png",
    ],
     fullDescription:
       "An academic project focused on designing a comprehensive event management system. The system was designed to handle participant registration, QR code-based check-in, and provide real-time attendance tracking.",
@@ -45,10 +45,10 @@ export const projects: Project[] = [
     title: "Periodic Salary Increase Application",
     category: "Web App / UI/UX & Front-End",
     description: "Developed the UI/UX and front-end implementation for automating the periodic salary increase process at DPMPTSP West Java.",
-    image:       "Public/Assets/Images/Projects/KGBCover.png",
+    image:       "Public/Images/Projects/KGBCover.png",
     additionalImages: [
-      "Public/Assets/Images/Projects/KGB/Dashboard.png",
-      "Public/Assets/Images/Projects/KGB/Staff2.png",
+      "Public/Images/Projects/KGB/Dashboard.png",
+      "Public/Images/Projects/KGB/Staff2.png",
           ],
     fullDescription:
       "As part of an internship program, I directly contributed to developing a web application to manage and automate the periodic salary increase process for civil servants. I was responsible for both UI/UX design and front-end development.",
@@ -70,10 +70,10 @@ export const projects: Project[] = [
     title: "KeuRTa - Neighborhood Budgeting App",
     category: "Web App / UI/UX & Front-End",
     description: "Designed and built a community-focused web app for transparent neighborhood (RT/RW) financial management.",
-    image:       "Public/Assets/Images/Projects/KeurtaCover.png",
+    image:       "Public/Images/Projects/KeurtaCover.png",
     additionalImages: [
-      "Public/Assets/Images/Projects/Keurta/Dashboard.png",
-      "Public/Assets/Images/Projects/Keurta/Transaksi.png",
+      "Public/Images/Projects/Keurta/Dashboard.png",
+      "Public/Images/Projects/Keurta/Transaksi.png",
     
     ],
     fullDescription:
@@ -96,10 +96,10 @@ export const projects: Project[] = [
     title: "Try It! - Cooking Recipe Application",
     category: "Mobile App / UI/UX Design",
     description: "Designed an interactive, mobile-first application for users to share, save, and browse cooking recipes.",
-    image:       "Public/Assets/Images/Projects/TryItCover.png",
+    image:       "Public/Images/Projects/TryItCover.png",
     additionalImages: [
-      "Public/Assets/Images/Projects/TryIt/Home.png",
-      "Public/Assets/Images/Projects/TryIt/.png",
+      "Public/Images/Projects/TryIt/Home.png",
+      "Public/Images/Projects/TryIt/.png",
     ],
     fullDescription:
       "This academic project focused purely on the UI/UX design for a cooking recipe app. The goal was to create a visually engaging and easy-to-use mobile-first platform where users could not only find recipes but also contribute by submitting their own.",
@@ -121,10 +121,10 @@ export const projects: Project[] = [
     title: "Case Study: Viu App Redesign",
     category: "UI/UX Redesign / Case Study",
     description: "Analyzed and redesigned the Viu app concept to improve content discoverability and visual consistency.",
-    image:       "Public/Assets/Images/Projects/RedesignViuCover.png",
+    image:       "Public/Images/Projects/RedesignViuCover.png",
     additionalImages: [
-      "Public/Assets/Images/Projects/",
-      "Public/Assets/Images/Projects/",
+      "Public/Images/Projects/",
+      "Public/Images/Projects/",
     ],
     fullDescription:
       "This was an academic case study project aimed at identifying usability issues in the existing Viu app  and proposing an improved design solution. The process involved user research and heuristic evaluation.",
